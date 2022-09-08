@@ -1,2 +1,2 @@
-# showcaseWebsite
-First assignment of university
+# **showcaseWebsite**
+*First assignment of university
