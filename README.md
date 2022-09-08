@@ -1,2 +1,2 @@
 # **showcaseWebsite**
-*First assignment of university
+*First assignment of university - ICT Course*
