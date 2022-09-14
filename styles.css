@@ -44,6 +44,10 @@ main {
   z-index: 1;
 }
 
+table {
+  font-size: 16px;
+}
+
 #mid {
   width: 60%;
   position: static;
@@ -55,7 +59,13 @@ main {
   backdrop-filter: blur(10px);
 }
 
-
+.logo {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 290px;
+  height: 138px;
+}
 
 footer {
   background-color: hsl(222, 30%, 13%);
@@ -142,5 +152,72 @@ a:active {
 }
 
 a:hover {
+  color: white;
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  transition-duration: 1s;
+  cursor: pointer;
+}
+.button1 {
+  background-color: rgb(150,150,150);
+  color: black;
+  border: 2px solid rgb(100,100,100);
+}
+
+.button1:hover {
+  background-color: rgb(64, 0, 255);
+  color: white;
+}
+
+.button2 {
+  background-color: rgb(150,150,150);
+  color: black;
+  border: 2px solid rgb(100,100,100);
+}
+
+.button2:hover {
+  background-color: rgb(0, 179, 92);
+  color: white;
+}
+
+.button3 {
+  background-color: rgb(150,150,150);
+  color: black;
+  border: 2px solid rgb(100,100,100);
+}
+
+.button3:hover {
+  background-color: rgb(255, 166, 0);
+  color: white;
+}
+
+.button4 {
+  background-color: rgb(150,150,150);
+  color: black;
+  border: 2px solid rgb(100,100,100);
+}
+
+.button4:hover {
+  background-color: rgba(38, 45, 250, 0.515);
+  color: white;
+}
+
+.button5 {
+  background-color: rgb(150,150,150);
+  color: black;
+  border: 2px solid rgb(100,100,100);
+}
+
+.button5:hover {
+  background-color: rgb(160, 0, 0);
   color: white;
 }
