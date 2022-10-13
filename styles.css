@@ -167,10 +167,11 @@ a:hover {
   transition-duration: 0.75s;
   cursor: pointer;
 }
+
 .button1 {
-  background-color: rgb(150,150,150);
+  background-color: rgb(150, 150, 150);
   color: black;
-  border: 2px solid rgb(100,100,100);
+  border: 2px solid rgb(100, 100, 100);
 }
 
 .button1:hover {
@@ -179,9 +180,9 @@ a:hover {
 }
 
 .button2 {
-  background-color: rgb(150,150,150);
+  background-color: rgb(150, 150, 150);
   color: black;
-  border: 2px solid rgb(100,100,100);
+  border: 2px solid rgb(100, 100, 100);
 }
 
 .button2:hover {
@@ -190,9 +191,9 @@ a:hover {
 }
 
 .button3 {
-  background-color: rgb(150,150,150);
+  background-color: rgb(150, 150, 150);
   color: black;
-  border: 2px solid rgb(100,100,100);
+  border: 2px solid rgb(100, 100, 100);
 }
 
 .button3:hover {
@@ -201,9 +202,9 @@ a:hover {
 }
 
 .button4 {
-  background-color: rgb(150,150,150);
+  background-color: rgb(150, 150, 150);
   color: black;
-  border: 2px solid rgb(100,100,100);
+  border: 2px solid rgb(100, 100, 100);
 }
 
 .button4:hover {
@@ -212,9 +213,9 @@ a:hover {
 }
 
 .button5 {
-  background-color: rgb(150,150,150);
+  background-color: rgb(150, 150, 150);
   color: black;
-  border: 2px solid rgb(100,100,100);
+  border: 2px solid rgb(100, 100, 100);
 }
 
 .button5:hover {
